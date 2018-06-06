@@ -1,0 +1,9 @@
+s="Acadview"
+print("%s" % (s))
+
+course="python"
+print("%s" % (course))
+
+fees=5000
+print("%s" % (fees))
+

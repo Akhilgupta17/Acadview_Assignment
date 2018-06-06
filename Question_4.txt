@@ -1,0 +1,3 @@
+print("let's Get Started")
+print('let"s Get Started')
+print('''let's Do it,let"s Get started''')

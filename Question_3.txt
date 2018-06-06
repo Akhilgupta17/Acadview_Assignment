@@ -1,0 +1,8 @@
+x=input("Enter First Input:")
+print(x)
+
+y=input("Enter Second Input:")
+print(y)
+
+z=input("Enter third Input:")
+print(z)

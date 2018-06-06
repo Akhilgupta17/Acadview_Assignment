@@ -1,0 +1,2 @@
+print ("INDIA "+"IS GREAT")
+print ("MY SECOND "+"QUESTION")
